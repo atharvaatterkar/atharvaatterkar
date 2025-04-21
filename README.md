@@ -2,14 +2,15 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Atharva, a tech-driven innovator passionate about AI, full-stack development, and solving real-world problems through technology 🚀</div>  
+### <div align="center">I'm Atharva, a tech-driven innovator passionate about AI/ML and solving real-world problems through technology 🚀</div>  
 
-- 🔭 Currently building a **Student Classroom Attention Detection System** using Image Processing & EEG Signals  
-- 🧠 Also worked on **Driver Drowsiness Detection** and **Invoice Matching Systems** using ML, CNNs & NLP  
+- 🔭 Currently building a **Women Saferoute Navigation System** using Random Forest & XGBoost  
+- 🧠 Also worked on **Student Classroom Attention Detection System** using Image Processing & EEG Signals  
 - 🏆 Winner of **Hack-Sphere Hackathon**, Best Paper Award @IEEE ICBDS 2024  
-- 🌱 Learning AWS, Kubernetes, and advanced ML models like YOLO & Inception V3  
-- ❓ Ask me about MERN stack, AI/ML, Computer Vision, and Cloud Technologies  
+- 🌱 Learning AWS, Kubernetes, and GenAI
+- ❓ Ask me about AI/ML, Computer Vision, and Cloud Technologies  
 - ⚡ Fun fact: I use tabs over spaces  
+  
 
 <br/>
 
