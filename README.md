@@ -95,17 +95,9 @@
 </div>  
 
 
-<br/>
 
-<div align="center">
-    <a href="https://www.buymeacoffee.com/atharvaatterkar" target="_blank" style="display: inline-block;">
-    </a>
-</div>
 
-<br/>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
